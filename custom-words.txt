@@ -2749,6 +2749,7 @@ interactivequery
 tmpfs
 npipe
 Tmpfs
+Pkce
 widget's
 BGP
 DPDK
